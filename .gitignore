@@ -1,0 +1,11 @@
+# Ignore  
+env.php
+.vscode
+.DS_Store
+
+/wp
+/content/upgrade
+/shared
+
+# Don’t ignore 
+
